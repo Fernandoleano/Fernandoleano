@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning some programing languages
 - 💞️ I’m looking to collaborate on projects with friends
 - 📫 How to reach me fernandoleano4@gmail.com
-- 📸 Follow me on instagram https://www.instagram.com/dev_leano/
 
 <!---
 Fernandoleano/Fernandoleano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
