@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate programmer and Full Stack develop
 
 ## About Me
 
-- 👀 I’m interested in programming and Full Stack development
+- 👀 I’m in love wiith programming and Full Stack development
 - 🌱 I’m constantly learning new programming languages and technologies to enhance my skills
 - 💞️ I’m always looking for exciting projects to collaborate on with fellow developers and friends
 - 📫 You can reach me at fernandoleano4@gmail.com
