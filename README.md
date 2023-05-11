@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate programmer and Full Stack develop
 
 ## My Projects
 
-Feel free to explore my GitHub repositories, where you'll find a collection of projects I've worked on. From web development to mobile apps, I love to showcase my skills and creativity.
+Feel free to explore my GitHub repositories, where you'll find a collection of projects I've worked on. From web development to Full Stack apps, I love to showcase my skills and creativity.
 
 ## Let's Connect!
 
