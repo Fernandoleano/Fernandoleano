@@ -178,7 +178,7 @@ FastAPI backend, Flutter app with native HealthKit & Health Connect bridges, Nex
 </td>
 <td width="50%" valign="top">
 
-### 🧭 HPM Portal
+### 🧭 HQ
 **Insurance FMO operations stack**
 
 Rails portal at Health Plan Markets running agent contracting, Zoho CRM sync, Connecture RTS automation, DuckDB-based RAG over agent contracts and carrier/plan data.
