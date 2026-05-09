@@ -43,7 +43,7 @@
 22, running a health-AI startup out of Orlando.<br/>
 Building **[ZuraLog](https://zuralog.com)** with [@hyowonbernabe](https://github.com/hyowonbernabe) — a personal health AI agent shipping to iOS and Android.<br/>
 By day I run tech and ops at **Health Plan Markets**, an insurance FMO, where I own the Rails portal, Zoho integrations, and agent automation.<br/>
-Coding since 14. I like fast systems, clean UX, and shipping things that work.
+Coding since 14. Started my first company at 21. Pretty sure I'll keep starting things — fast systems, clean UX, shipping things that work.
 
 </div>
 
@@ -108,7 +108,7 @@ Coding since 14. I like fast systems, clean UX, and shipping things that work.
 # CONTRIBUTIONS.
 
 <a href="https://github.com/Fernandoleano">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fernandoleano&show_icons=true&theme=transparent&hide_border=true&title_color=CFE1B9&icon_color=A8C68A&text_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fernandoleano&show_icons=true&hide_border=true&bg_color=00000000&title_color=CFE1B9&icon_color=A8C68A&text_color=ffffff&include_all_commits=true&rank_icon=github" height="170"/>
 </a>
 <a href="https://github.com/Fernandoleano">
   <img src="https://streak-stats.demolab.com/?user=Fernandoleano&theme=transparent&hide_border=true&background=00000000&stroke=A8C68A&ring=CFE1B9&fire=CFE1B9&currStreakLabel=CFE1B9&dates=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&excludeDaysLabel=ffffff" height="170"/>
@@ -116,7 +116,7 @@ Coding since 14. I like fast systems, clean UX, and shipping things that work.
 
 <br/>
 <a href="https://github.com/Fernandoleano">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandoleano&layout=compact&theme=transparent&hide_border=true&title_color=CFE1B9&text_color=ffffff&langs_count=10" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandoleano&layout=compact&hide_border=true&bg_color=00000000&title_color=CFE1B9&text_color=ffffff&langs_count=10" height="160"/>
 </a>
 
 <br/><br/>
@@ -178,7 +178,7 @@ FastAPI backend, Flutter app with native HealthKit & Health Connect bridges, Nex
 </td>
 <td width="50%" valign="top">
 
-### 🧭 HQ
+### 🧭 HPM Portal
 **Insurance FMO operations stack**
 
 Rails portal at Health Plan Markets running agent contracting, Zoho CRM sync, Connecture RTS automation, DuckDB-based RAG over agent contracts and carrier/plan data.
