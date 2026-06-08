@@ -10,7 +10,7 @@
 
 ---
 
-I'm Fernando — 22, based in Orlando.
+I'm Fernando 22, based in Orlando.
 
 I co-founded **[ZuraLog](https://zuralog.com)**, a personal health AI agent shipping to iOS and Android, where I'm CEO/CFO and write most of the backend. I also run engineering and operations at **Health Plan Markets**, an insurance FMO, where I own the Rails portal and the automation that keeps it moving.
 
