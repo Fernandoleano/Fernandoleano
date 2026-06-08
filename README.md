@@ -51,7 +51,7 @@ daily     Arch Linux · Neovim · Git
 
 <a href="https://zuralog.com">zuralog</a> &nbsp;·&nbsp;
 <a href="https://my-portfolio-site-alpha.vercel.app/">portfolio</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/fernando-leano/">linkedin</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/fernando-leano-682b28208/">linkedin</a> &nbsp;·&nbsp;
 <a href="mailto:fernandoleano4@gmail.com">email</a>
 
 </div>
